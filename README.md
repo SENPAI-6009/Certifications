@@ -34,7 +34,7 @@ The purpose of this repository is to:
 - Track my progress in programming and technology.
 - Maintain a collection of achievements.
 
-## Next?
+## Future Goals?
 
 I will continue expanding this repository as I complete more courses, certifications, and technical learning programs.
 
